@@ -17,3 +17,6 @@ to be updated soon.
 ## Aim and Vision
 
 My goal is to build a comprehensive and accessible resource for anyone interested in ML and CV. Whether you're a beginner looking for a place to start or an enthusiast seeking to deepen your understanding, this repository is for you.
+
+
+###### Note: This repository will be actively organized and updated with new content over the duration of April to August 2024. Stay tuned for a comprehensive learning journey!
